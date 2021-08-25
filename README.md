@@ -1,4 +1,4 @@
-<h1>Nguyen Xuan Cam - Software engineerr</h1>
+<h1>Nguyen Xuan Cam - Software engineer</h1>
 
 ### My history:
   - [🚀](#)
