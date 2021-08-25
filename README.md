@@ -1,5 +1,5 @@
 <h1>Code by me</h1>
-<hr>
+<div>
 ### My history:
   - [🚀](#)
   - [Code Mode 👨🏽‍💻](#)
@@ -11,3 +11,4 @@
       - [Badges 🎫](#)
       - [Fancy Fonts 🖋](#)
       - [Icons 🎯](#)
+</div>
