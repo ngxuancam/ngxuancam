@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngxuancam" alt="ngxuancam" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, ReactJs, DotNet**
+- 🌱 I’m currently learning **Flutter, NodeJS, DotNet**
 
 - 📫 How to reach me **nguyenxuancamit@gmail.com**
 
