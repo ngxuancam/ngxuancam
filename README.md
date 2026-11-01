@@ -33,17 +33,6 @@ I build interfaces that are fast first and beautiful second, and I keep refusing
 
 <br />
 
-### ✦ &nbsp;Ledger
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ngxuancam&background=1B2430&border=2C3747&ring=C2A679&fire=D9A3AC&currStreakNum=FDFBF7&sideNums=FDFBF7&currStreakLabel=C2A679&sideLabels=C2A679&dates=8A93A3&border_radius=14" />
-    <img src="https://streak-stats.demolab.com?user=ngxuancam&background=FDFBF7&border=EAE5DB&ring=C2A679&fire=4A0E17&currStreakNum=1B2430&sideNums=1B2430&currStreakLabel=4A0E17&sideLabels=7A6340&dates=7A6340&border_radius=14" alt="Contribution streak" />
-  </picture>
-</p>
-
-<br />
-
 <p align="center">
   <sub><i>Built to the same palette as my portfolio: Oxford navy, deep burgundy, ecru and brass.</i></sub>
 </p>
