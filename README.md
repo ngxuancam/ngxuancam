@@ -1,22 +1,49 @@
-<h1 align="center">Hi 👋, I'm Nguyen Xuan Cam</h1>
-<h3 align="center">A student about software engineer.</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
+  <img src="./assets/banner-light.svg" width="100%" alt="Nguyen Xuan Cam — frontend & creative developer, Da Nang, Viet Nam" />
+</picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngxuancam&label=Profile%20views&color=0e75b6&style=flat" alt="ngxuancam" /> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/socdev/"><img src="https://img.shields.io/badge/LinkedIn-socdev-1B2430?style=flat-square&labelColor=4A0E17&logo=linkedin&logoColor=FDFBF7" alt="LinkedIn" /></a>
+  <a href="mailto:nguyenxuancamit@gmail.com"><img src="https://img.shields.io/badge/Email-nguyenxuancamit%40gmail.com-1B2430?style=flat-square&labelColor=4A0E17&logo=gmail&logoColor=FDFBF7" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Based_in-Da_Nang,_VN-1B2430?style=flat-square&labelColor=C2A679" alt="Based in Da Nang" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngxuancam" alt="ngxuancam" /></a> </p>
+<br />
 
-- 🌱 I’m currently learning **Flutter, NodeJS, DotNet**
+### ✦ &nbsp;About
 
-- 📫 How to reach me **nguyenxuancamit@gmail.com**
+I build interfaces that are fast first and beautiful second, and I keep refusing to choose between the two. My background is mobile (Flutter, Android), and these days most of my time goes into the web: server-first React, real-time 3D in the browser, and motion that runs at 60 fps on a mid-range phone.
 
-- ⚡ Fun fact **Elephants can’t jump.**
+- **Now:** building my portfolio in Next.js 16 with a Three.js scene running in a Web Worker (OffscreenCanvas), CSS scroll-driven animation, and a 100 Lighthouse score on desktop.
+- **Learning:** shaders (GLSL), AWS serverless, system design.
+- **Belief:** performance is a design decision, not a cleanup task.
 
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### ✦ &nbsp;Toolbox
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngxuancam&show_icons=true&locale=en&layout=compact" alt="ngxuancam" /></p>
+| | |
+|:--|:--|
+| **Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-FDFBF7?style=flat-square&logo=typescript&logoColor=1B2430) ![React](https://img.shields.io/badge/React-FDFBF7?style=flat-square&logo=react&logoColor=1B2430) ![Next.js](https://img.shields.io/badge/Next.js-FDFBF7?style=flat-square&logo=nextdotjs&logoColor=1B2430) ![Node.js](https://img.shields.io/badge/Node.js-FDFBF7?style=flat-square&logo=nodedotjs&logoColor=1B2430) ![CSS](https://img.shields.io/badge/Modern_CSS-FDFBF7?style=flat-square&logo=css&logoColor=1B2430) |
+| **3D & motion** | ![Three.js](https://img.shields.io/badge/Three.js-4A0E17?style=flat-square&logo=threedotjs&logoColor=FDFBF7) ![GLSL](https://img.shields.io/badge/GLSL-4A0E17?style=flat-square&logo=opengl&logoColor=FDFBF7) ![GSAP](https://img.shields.io/badge/GSAP-4A0E17?style=flat-square&logo=greensock&logoColor=FDFBF7) ![anime.js](https://img.shields.io/badge/anime.js-4A0E17?style=flat-square) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-1B2430?style=flat-square&logo=flutter&logoColor=C2A679) ![Dart](https://img.shields.io/badge/Dart-1B2430?style=flat-square&logo=dart&logoColor=C2A679) ![Android](https://img.shields.io/badge/Android-1B2430?style=flat-square&logo=android&logoColor=C2A679) ![Java](https://img.shields.io/badge/Java-1B2430?style=flat-square&logo=openjdk&logoColor=C2A679) |
+| **Backend & cloud** | ![.NET](https://img.shields.io/badge/.NET-C2A679?style=flat-square&logo=dotnet&logoColor=1B2430) ![AWS](https://img.shields.io/badge/AWS_Lambda-C2A679?style=flat-square&logo=awslambda&logoColor=1B2430) ![SQL Server](https://img.shields.io/badge/SQL_Server-C2A679?style=flat-square&logo=databricks&logoColor=1B2430) ![Linux](https://img.shields.io/badge/Linux-C2A679?style=flat-square&logo=linux&logoColor=1B2430) |
+| **Craft** | ![Figma](https://img.shields.io/badge/Figma-FDFBF7?style=flat-square&logo=figma&logoColor=4A0E17) ![Lighthouse](https://img.shields.io/badge/Core_Web_Vitals-FDFBF7?style=flat-square&logo=lighthouse&logoColor=4A0E17) ![a11y](https://img.shields.io/badge/Accessibility-FDFBF7?style=flat-square&logo=accessibleicon&logoColor=4A0E17) |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngxuancam&show_icons=true&locale=en" alt="ngxuancam" /></p>
+<br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngxuancam&" alt="ngxuancam" /></p>
+### ✦ &nbsp;Ledger
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ngxuancam&background=1B2430&border=2C3747&ring=C2A679&fire=D9A3AC&currStreakNum=FDFBF7&sideNums=FDFBF7&currStreakLabel=C2A679&sideLabels=C2A679&dates=8A93A3&border_radius=14" />
+    <img src="https://streak-stats.demolab.com?user=ngxuancam&background=FDFBF7&border=EAE5DB&ring=C2A679&fire=4A0E17&currStreakNum=1B2430&sideNums=1B2430&currStreakLabel=4A0E17&sideLabels=7A6340&dates=7A6340&border_radius=14" alt="Contribution streak" />
+  </picture>
+</p>
+
+<br />
+
+<p align="center">
+  <sub><i>Built to the same palette as my portfolio: Oxford navy, deep burgundy, ecru and brass.</i></sub>
+</p>
